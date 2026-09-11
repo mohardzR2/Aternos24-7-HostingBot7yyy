@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GlowcraftMC.aternos.me",
-    "port": 15291,
+    "ip": "adamboukefta.aternos.me",
+    "port": 57514,
     "version": "1.20.1",
     "try-creative": false
   },
